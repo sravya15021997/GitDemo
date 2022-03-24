@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="55" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="55" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="motorVehicle()[pri:0, instance:qaclickacademy.AppiumTest@74650e52]" name="motorVehicle" duration-ms="10" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorVehicle -->
+        <test-method status="PASS" signature="motorVehicle1()[pri:0, instance:qaclickacademy.AppiumTest@74650e52]" name="motorVehicle1" duration-ms="0" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- motorVehicle1 -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="electronics()[pri:0, instance:qaclickacademy.RESTAPITest@59e5ddf]" name="electronics" duration-ms="0" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- electronics -->
+        <test-method status="PASS" signature="handMades()[pri:0, instance:qaclickacademy.RESTAPITest@59e5ddf]" name="handMades" duration-ms="0" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handMades -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="beauty()[pri:0, instance:qaclickacademy.SeleniumTest@536aaa8d]" name="beauty" duration-ms="0" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beauty -->
+        <test-method status="PASS" signature="fashion()[pri:0, instance:qaclickacademy.SeleniumTest@536aaa8d]" name="fashion" duration-ms="0" started-at="2022-01-21T19:39:48 GMT" finished-at="2022-01-21T19:39:48 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fashion -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
