@@ -10,6 +10,9 @@ public class RESTAPITest {
 	{
 		
 		System.out.println("Mobile");
+		System.out.println("Mobile2");
+		System.out.println("Mobile3");
+
 	}
 	
 	@Test
